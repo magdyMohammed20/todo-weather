@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "title": "First Title",
+      "description": "First description",
+      "Checked": false,
+      "createdAt": "2022-01-20",
+      "FinishedAt": "2022-01-20",
+      "ArchiveAt": "2022-01-20"
+    }
+  ]
+}
